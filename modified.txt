@@ -661,16 +661,6 @@
 * Story (3+ paragraphs)
 * Dynamic Post Length
 
-#Medium
-(General)
-* Skype
-* Kik
-* Reddit
-* E-Mail
-* Discord
-* Ingame
-* Other
-
 #Time-Scale
 (Self, Partner)
 * Short-Term Scenes
@@ -680,5 +670,3 @@
 * Fast Replies (10~30 mins)
 * Normal Replies (30min ~ 2hours)
 * Slow Replies (2~8 hours)
-* Glacial Replies (8-24 hours)
-* Occasional Replies (24+ hours)
