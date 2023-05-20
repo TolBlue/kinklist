@@ -431,7 +431,7 @@ $(function(){
                     $('#URL').val(url).fadeIn();
                 }
             }
-            req.open("POST", 'https://api.imgbb.com/1/upload?key=377713d32db3da271fcf40791d172742', true)
+            req.open("POST", 'https://api.imgbb.com/1/upload?key=1f9bbef8c849239a208b17c32ad7adcd', true)
             req.send(formData)
 
         },
