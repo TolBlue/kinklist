@@ -72,12 +72,12 @@
 
 #Time-Scale
 (Self, Partner)
-* Short-Term Scenes
-* Medium-Term Scenes
-* Long-Term Scenes
+* Short-Term Scenes (0~2 hours)
+* Medium-Term Scenes (2~4 hours)
+* Long-Term Scenes (4~8 hours)
 * Quick Replies (0~10 mins)
-* Fast Replies (10~30 mins)
-* Normal Replies (30min ~ 2hours)
+* Normal Replies (10~20 mins)
+* Slow Replies (20~30 mins)
 
 #General
 (Self, Partner)
